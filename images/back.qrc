@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>lab_logoq.png</file>
+    <file>mono.png</file>
+    <file>New Bitmap Image.bmp</file>
+    <file>sngpl.jpg</file>
+    <file>SNGPL.webp</file>
+    <file>sngpl_logo.jpg</file>
+    <file>SNGPL-1.jpg</file>
+    <file>white-car.png</file>
+  </qresource>
+</RCC>

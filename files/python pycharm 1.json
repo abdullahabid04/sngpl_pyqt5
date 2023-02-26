@@ -1,0 +1,30 @@
+{
+    "first_name": "python",
+    "last_name": "pycharm",
+    "father_name": "abcd",
+    "mother_name": "efgh",
+    "gender": "m",
+    "date_of_birth": 112233,
+    "place_of_birth": "xyz",
+    "age": 100,
+    "height": 5,
+    "weight": 0,
+    "waist": 0,
+    "BMI": 0,
+    "blood_group": "a",
+    "marial_status": "no",
+    "husband_OR_wife_name": "no",
+    "no_of_childerns": "no",
+    "name_of_childerns": [
+        "no"
+    ],
+    "qualification": "expert",
+    "degree": "pro",
+    "job": "programming",
+    "country": "every",
+    "province": "every",
+    "state": "every",
+    "city": "every",
+    "address": "every",
+    "zipcode": "every"
+}
